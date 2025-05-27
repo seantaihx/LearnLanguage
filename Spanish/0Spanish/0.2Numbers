@@ -52,8 +52,17 @@ When using 100 and anything else: we use 100 as ciento
 120: ciento veinte
 199: ciento noventa y nueve
 ----------------------------------------------------------------------------------------------------
+200: doscientos
+300: trescientos
+400: cuatrocientos
+600: seiscientos
+800: ochocientos
 
-
+500: quinientos
+700: setecientos
+900: novecientos
+----------------------------------------------------------------------------------------------------
+1000000: millón
 
 
 

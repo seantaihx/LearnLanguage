@@ -66,5 +66,71 @@ When using 100 and anything else: we use 100 as ciento
 
 
 
+----------------------------------------------------------------------------------------------------
+número ordinal:
+
+Number: Spanish, Masculine, Feminine
+
+1st: primero, primero, primera
+2nd: segundo, segundo, segunda
+3rd: tercero, tercero, tercera
+4th: cuarto, cuarto, cuarta
+5th: quinto, quinto, quinta
+6th: sexto, sexto, sexta
+7th: séptimo, séptimo, séptima
+8th: octavo, octavo, octava
+9th: noveno, noveno, novena
+10th: décimo, décimo, décima
+11th: undécimo, undécimo, undécima (also: décimo primero)
+12th: duodécimo, duodécimo, duodécima (also: décimo segundo)
+13th: decimotercero, decimotercero, decimotercera
+14th: decimocuarto, decimocuarto, decimocuarta
+15th: decimoquinto, decimoquinto, decimoquinta
+16th: decimosexto, decimosexto, decimosexta
+17th: decimoséptimo, decimoséptimo, decimoséptima
+18th: decimoctavo, decimoctavo, decimoctava
+19th: decimonoveno, decimonoveno, decimonovena
+20th: vigésimo, vigésimo, vigésima
+----------------------------------------------------------------------------------------------------
+After 20th, it's the tens_prefix + ésimo
+
+21st: vigésimo primero, vigésimo primero, vigésima primera
+22nd: vigésimo segundo, vigésimo segundo, vigésima segunda
+23rd: vigésimo tercero, vigésimo tercero, vigésima tercera
+24th: vigésimo cuarto, vigésimo cuarto, vigésima cuarta
+25th: vigésimo quinto, vigésimo quinto, vigésima quinta
+26th: vigésimo sexto, vigésimo sexto, vigésima sexta
+27th: vigésimo séptimo, vigésimo séptimo, vigésima séptima
+28th: vigésimo octavo, vigésimo octavo, vigésima octava
+29th: vigésimo noveno, vigésimo noveno, vigésima novena
+30th: trigésimo, trigésimo, trigésima
+37th → trigésimo séptimo
+40th → cuadragésimo
+58th → quincuagésimo octavo
+90th → nonagésimo
+----------------------------------------------------------------------------------------------------
+Ten's prefix
+
+20: vigésimo
+30: trigésimo
+40: cuadragésimo
+50: quincuagésimo
+60: sexagésimo
+70: septuagésimo
+80: octogésimo
+90: nonagésimo
+----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
 
 
